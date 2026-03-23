@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+global-bundle.pem
+Electric_Vehicle_Population_Data.csv
+*.zip
+*.log
